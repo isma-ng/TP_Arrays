@@ -14,6 +14,7 @@ while (true) {
     }
     ciudades.push(ciudad.trim());
 }
+document.writeln("<h1>Ciudades ingresadas</h1>");
 document.writeln("<h2>Array generado: " + ciudades.join(", ") + "</h2>");
 document.writeln("<ul>ciudades ingresadas: " + ciudades.length + "</ul>");
 
