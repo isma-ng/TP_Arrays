@@ -27,3 +27,16 @@ cd ejercicios-arrays
 - Generación de números aleatorios con Math.random()
 - Manipulación del DOM para mostrar resultados
 - Estructura de datos eficiente para análisis estadístico
+
+## 🤝 Contribuciones
+¡Contribuciones son bienvenidas! Si quieres agregar más ejercicios o mejorar los existentes:
+
+Haz fork del repositorio
+
+Crea tu rama (git checkout -b nueva-funcionalidad)
+
+Haz commit de tus cambios (git commit -m 'Agrego ejercicio')
+
+Haz push a la rama (git push origin nueva-funcionalidad)
+
+Abre un Pull Request
