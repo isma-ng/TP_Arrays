@@ -10,7 +10,7 @@ Este repositorio contiene:
 - Ejemplos prácticos de manipulación de arrays
 
 ## ⚙️ Prerrequisitos
-- Node.js (v18 o superior)
+- JavaScript
 - Git
 - Navegador web moderno
 
@@ -19,3 +19,11 @@ Para obtener una copia local, ejecuta:
 ```bash
 git clone https://github.com/tu-usuario/ejercicios-arrays.git
 cd ejercicios-arrays
+```
+
+# 🔄 Características clave
+
+-Uso de arrays para conteo de frecuencias
+-Generación de números aleatorios con Math.random()
+-Manipulación del DOM para mostrar resultados
+-Estructura de datos eficiente para análisis estadístico
