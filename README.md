@@ -21,9 +21,9 @@ git clone https://github.com/tu-usuario/ejercicios-arrays.git
 cd ejercicios-arrays
 ```
 
-# 🔄 Características clave
+## 🔄 Características clave:
 
--Uso de arrays para conteo de frecuencias
--Generación de números aleatorios con Math.random()
--Manipulación del DOM para mostrar resultados
--Estructura de datos eficiente para análisis estadístico
+- Uso de arrays para conteo de frecuencias
+- Generación de números aleatorios con Math.random()
+- Manipulación del DOM para mostrar resultados
+- Estructura de datos eficiente para análisis estadístico
